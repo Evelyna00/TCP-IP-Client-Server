@@ -79,4 +79,4 @@ This project is open-source under the MIT License.
 ---------------------
  Author
 ---------------------
-Created by [Evelyn Ayanwale]
+Created by Evelyn Ayanwale
